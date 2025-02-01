@@ -12,7 +12,6 @@ As a participant in this challenge, I was responsible for:
 
 ✔ Reviewing the **ad-hoc-requests.pdf**, which contained **10 business queries requiring insights**  
 ✔ Developing and executing **SQL queries** to extract relevant data  
-✔ Creating **Power BI visualizations** to illustrate key insights  
 ✔ Designing a **PowerPoint presentation** to effectively communicate findings to management  
 
 ---
@@ -29,7 +28,7 @@ As a participant in this challenge, I was responsible for:
 ## **Key Outcomes**
 📌 Demonstrated expertise in **SQL querying and data handling**  
 📌 Transformed complex datasets into **meaningful business insights**  
-📌 Effectively communicated insights through **data visualization and presentation**  
+📌 Effectively communicated insights through **data visualization**  
 📌 Provided **actionable recommendations** to support strategic business decisions  
 
 ---
@@ -37,14 +36,12 @@ As a participant in this challenge, I was responsible for:
 ## **Repository Contents**
 📂 **ad-hoc-requests.pdf** – Contains the **10 ad hoc business queries**  
 📂 **SQL Queries** – A collection of **scripts used for data extraction**  
-📂 **Power BI Visualizations** – Includes **data visualization files for better insights**  
 📂 **Presentation** – A **structured PowerPoint presentation summarizing findings**  
 
 ---
 
 ## **How to Use**
 ✅ **SQL Queries:** Run the provided **SQL scripts** in **MySQL**.  
-✅ **Power BI Visualizations:** Open the **Power BI files** for **interactive analysis**.  
 ✅ **Presentation:** Review the **PowerPoint slides** for key **business insights and recommendations**.  
 
 ---
@@ -52,8 +49,6 @@ As a participant in this challenge, I was responsible for:
 ## **Skills Demonstrated**
 ✔ **SQL proficiency** – Writing complex queries to extract insights  
 ✔ **Analytical thinking** – Interpreting data trends for business impact  
-✔ **Data visualization** – Creating dashboards in Power BI  
-✔ **Business storytelling** – Presenting insights to stakeholders  
 
 This project showcases my ability to translate raw data into strategic business insights, making data-driven decision-making more effective.
 
